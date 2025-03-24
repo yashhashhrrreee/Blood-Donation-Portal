@@ -63,6 +63,9 @@ The application uses a MySQL database with tables for:
 4. **Access the Application:**
    Open `http://localhost:8080` in your browser.
 
+## Screenshot 
+![Image](https://github.com/user-attachments/assets/21c90f3f-f80b-4ea6-9345-d219f023e2e7)
+
 ## Future Enhancements
 - Implement REST API for better scalability.
 - Enable email notifications for registered donors.
