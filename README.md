@@ -75,7 +75,7 @@ The application uses a MySQL database with tables for:
 This project is open-source and available under the MIT License.
 
 ## Contributors
-- [Yashashree S Bedmutha] - Developer
+- Yashashree S Bedmutha - Developer
 
 ## Contact
 For any issues or suggestions, reach out to **yashashree.bedmutha@gmail.com**.
