@@ -50,7 +50,7 @@ The application uses a MySQL database with tables for:
 ### Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/blood-donation-portal.git
+   git clone https://github.com/yashhashhrrreee/Blood-Donation-Portal.git
    cd blood-donation-portal
    ```
 2. **Configure Database:**
